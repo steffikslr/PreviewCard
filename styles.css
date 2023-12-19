@@ -15,7 +15,7 @@ h1, p, h2{
 }  
 
 h1 span{
-    color: #9a5bc9;
+    color: hsl(277, 64%, 61%);
 }
 
 .text p{
@@ -42,12 +42,12 @@ main{
     justify-content: center;
     align-items: center;
     min-height: 95dvh;
-    background-color: #0a0c1b;
+    background-color: hsl(233, 47%, 7%);
     color: white;
     
 }
 .content{
-    background-color: #1c1938;
+    background-color: hsl(244, 38%, 16%);
     order: 1;
     padding: 50px;
     padding-right: 105px;
